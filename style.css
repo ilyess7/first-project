@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    colour:black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+li {
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 20px;
+    float: left;
+}
+li:hover {
+    background-color: grey;
+}
+div {
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    background-color: grey;
+}
